@@ -1,0 +1,16 @@
+
+
+.icon {
+    color: #0A4D68;
+    cursor: pointer;
+}
+
+.icon:first-child{
+    margin-right: 7px;
+}
+
+.iconContainer {
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+}
